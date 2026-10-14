@@ -1,0 +1,1 @@
+{"name":"Local: 2568_Stack_or_Queue","url":"c:\\Users\\COMPUTER3\\Desktop\\old_lesson\\Final\\2568_Stack_or_Queue.cpp","tests":[{"id":1791952202567,"input":"a b c d 2 e f 3 d\nS","output":"d c f e b\nd a"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\COMPUTER3\\Desktop\\old_lesson\\Final\\2568_Stack_or_Queue.cpp","group":"local","local":true}
